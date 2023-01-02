@@ -1,4 +1,4 @@
-# Guess-Flag-Game-HWS
+# Guess-Flag-Game-HWS.
 
 # Topics 
 Asset catalogs, UIButton, CALayer, UIColor, UIAlertController
